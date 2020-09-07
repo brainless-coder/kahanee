@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423199840616",
+    "firebase_url": "https://kahanee-user-registration.firebaseio.com",
+    "project_id": "kahanee-user-registration",
+    "storage_bucket": "kahanee-user-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423199840616:android:12956c94ffe7894557dedd",
+        "android_client_info": {
+          "package_name": "com.prime.user_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423199840616-u2gfjikf6vitrgage6oe9aruklqdv2of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo8fAgfggu2cNmY-YDKWZDhI8sNCZC0SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423199840616-u2gfjikf6vitrgage6oe9aruklqdv2of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
