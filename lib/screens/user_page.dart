@@ -40,7 +40,7 @@ class _UserPageState extends State<UserPage> {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Text(
-              'This is the user page after login/SignUp',
+              'This is the page of user after he/she login/SignUp',
               style: TextStyle(
                 fontSize: 25.0,
                 fontWeight: FontWeight.bold,
