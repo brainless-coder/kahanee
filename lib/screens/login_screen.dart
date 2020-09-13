@@ -87,6 +87,13 @@ class _LoginScreenState extends State<LoginScreen> {
                           });
                         }
                       },
+                    ),
+                    RoundedButton(
+                      title: 'Forgot Password',
+                      color: Colors.teal,
+                      onPressed: () async {
+                        await _auth.sendPasswordResetEmail(email: email);
+                      },
                     )
                   ],
                 ),
